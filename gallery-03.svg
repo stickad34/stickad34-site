@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e5007e" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#48ae4f" stop-opacity="0.14"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="720" rx="28" fill="url(#g)" stroke="rgba(15,23,42,.12)" stroke-width="4"/>
+  <text x="80" y="140" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#0b1220">Enseigne • Façade</text>
+  <text x="80" y="210" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#334155">Remplace cette image par une vraie photo dans assets/</text>
+  <text x="80" y="710" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">Stickad 34 Montpellier</text>
+</svg>
